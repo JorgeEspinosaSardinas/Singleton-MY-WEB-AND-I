@@ -8,8 +8,8 @@
     public  static  function  ___A___        (               ){
                              $___B___        =   __CLASS__   ; return(
              self  ::        $___A___        )?
-             self  :         $___A___        =   new 
-		                     $___B___        ;}
+             self  :         $___A___        =
+	     new 	     $___B___        ;}
     public  function          ___D___        ( & $flag , & $option   ){
       $___C___ =       new    ___C___        (   $flag ,   $option   );
       $___C___ =    $___C___->   get(       );
